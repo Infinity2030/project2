@@ -1,4 +1,4 @@
-# 📌 Personal Portfolio -- Bookstore Management Project
+# Personal Portfolio -- Bookstore Management Project
 
 This project is a bookstore management system that I built to strengthen
 my Python programming skills and explore how object‑oriented design,
@@ -14,9 +14,9 @@ functional Python applications.
 
 ------------------------------------------------------------------------
 
-# ⚙️ Features & Technologies
+# Features & Technologies
 
-### 📚 Core Features
+### Core Features
 
 -   Object‑oriented book and inventory management\
 -   Add, remove, and update book information\
@@ -24,27 +24,27 @@ functional Python applications.
 -   Search through the bookstore catalog\
 -   Well‑structured classes with clear responsibilities
 
-### 🖥️ GUI Application
+### GUI Application
 
 -   Full graphical interface built using **Tkinter**\
 -   Interactive windows, buttons, and forms\
 -   Linked directly to backend logic for real‑time updates\
 -   User‑friendly layout for managing the bookstore
 
-### 🧪 Testing
+### Testing
 
 -   Proper unit tests included to ensure reliability\
 -   `doctest` and additional test files to validate behavior\
 -   Helps maintain clean and predictable code
 
-### 💻 Technologies Used
+### Technologies Used
 
 -   **Python 3**\
 -   **Tkinter** for GUI\
 -   **OOP (Object‑Oriented Programming)**\
 -   **Doctest / Unit Testing**
 
-### 🧩 Project Files
+### Project Files
 
 -   `bookstore_core.py` -- core backend classes\
 -   `bookstore_gui.py` -- graphical interface\
@@ -54,7 +54,7 @@ functional Python applications.
 
 ------------------------------------------------------------------------
 
-# 🎥 Video Demo
+# Video Demo
 
 I will be adding a full YouTube video walkthrough here, explaining the
 code structure, GUI interactions, and how each feature works in the
